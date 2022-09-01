@@ -1,0 +1,12 @@
+.button{
+    font: inherit;
+    background-color: orangered;
+    border: 1px solid orangered;
+    color: #fff;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;    
+    width: 30%;
+    margin: 1rem auto;
+}
